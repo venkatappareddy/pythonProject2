@@ -1,3 +1,5 @@
 import math
 a=math.sqrt(3)
-print(a) 
+b=math.log(2)
+print(a)
+print(b)
